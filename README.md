@@ -52,8 +52,6 @@ I enjoy creating clean UI designs, improving user experience, and turning ideas 
 <li>📱 Responsive Landing Pages</li>
 </ul>
 
-<h2>💡 Quote I Believe In</h2>
-
-<p>
+<h2>
 "Great websites are not just built with code, but with creativity and user experience."
-</p>
+</h2>
