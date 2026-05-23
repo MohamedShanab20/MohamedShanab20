@@ -1,16 +1,73 @@
-# Hi, I'm Mohamed Shanab 👋
+<h2>Hey 👋, I'm Mohamed Shanab</h2>
 
-💻 Front-End Developer  
-🚀 Building modern and responsive web experiences  
-🎨 Passionate about UI/UX and creative designs  
+<p>
+💻 Front-End Developer from 🇪🇬 Egypt passionate about building modern, responsive, and interactive web experiences.
+I enjoy creating clean UI designs, improving user experience, and turning ideas into real projects using modern web technologies.
+</p>
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
-- Git & GitHub
+<p>
+<a href="https://github.com/MohamedShanab">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-## Current Goal
-Become a strong professional Front-End Developer and build impactful projects.
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/-Front--End%20Developer-0ea5e9?style=flat-square" />
+</a>
+</p>
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<h2>⚡️ About Me</h2>
+
+<ul>
+<li>🚀 Currently improving my Front-End Development skills.</li>
+
+<li>🎨 Passionate about UI/UX and modern web design.</li>
+
+<li>💻 Working with React, JavaScript, and Tailwind CSS.</li>
+
+<li>📱 Building responsive and user-friendly websites.</li>
+
+<li>🔥 Interested in performance optimization and clean code.</li>
+
+<li>🎯 Goal: Become a professional Front-End Engineer.</li>
+</ul>
+
+<h2>🛠 Tech Stack</h2>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma" />
+</p>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedShanab&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedShanab&layout=compact&theme=tokyonight&hide_border=true" width="37%" />
+</p>
+
+<h2>🔥 GitHub Streak</h2>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MohamedShanab&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2>🚀 Featured Projects</h2>
+
+<ul>
+<li>☕ Coffee Shop Manager</li>
+<li>📋 React To-Do App</li>
+<li>🎨 Modern Portfolio Website</li>
+<li>📱 Responsive Landing Pages</li>
+</ul>
+
+<h2>💡 Quote I Believe In</h2>
+
+<p>
+"Great websites are not just built with code, but with creativity and user experience."
+</p>
