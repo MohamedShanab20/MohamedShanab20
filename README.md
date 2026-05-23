@@ -36,7 +36,7 @@ I enjoy creating clean UI designs, improving user experience, and turning ideas 
 <h2>🛠 Tech Stack</h2>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
 </p>
 
 <h2>🚀 Featured Projects</h2>
