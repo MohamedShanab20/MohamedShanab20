@@ -6,11 +6,11 @@ I enjoy creating clean UI designs, improving user experience, and turning ideas 
 </p>
 
 <p>
-<a href="https://github.com/MohamedShanab">
+<a href="https://github.com/MohamedShanab20">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="www.linkedin.com/in/mohamedshanab20">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
@@ -41,20 +41,6 @@ I enjoy creating clean UI designs, improving user experience, and turning ideas 
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma" />
-</p>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedShanab&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedShanab&layout=compact&theme=tokyonight&hide_border=true" width="37%" />
-</p>
-
-<h2>🔥 GitHub Streak</h2>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=MohamedShanab&theme=tokyonight&hide_border=true" />
 </p>
 
 <h2>🚀 Featured Projects</h2>
