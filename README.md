@@ -17,19 +17,18 @@ I enjoy creating clean UI designs, improving user experience, and turning ideas 
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+<h2>🎥 Demo Video</h2>
+
+[![Watch the video](https://img.youtube.com/vi/5_jjy_erJos/maxresdefault.jpg)](https://youtu.be/5_jjy_erJos)
+
 <h2>⚡️ About Me</h2>
 
 <ul>
 <li>🚀 Currently improving my Front-End Development skills.</li>
-
 <li>🎨 Passionate about UI/UX and modern web design.</li>
-
 <li>💻 Working with React, JavaScript, and Tailwind CSS.</li>
-
 <li>📱 Building responsive and user-friendly websites.</li>
-
 <li>🔥 Interested in performance optimization and clean code.</li>
-
 <li>🎯 Goal: Become a professional Front-End Engineer.</li>
 </ul>
 
@@ -48,6 +47,6 @@ I enjoy creating clean UI designs, improving user experience, and turning ideas 
 <li>📱 Responsive Landing Pages</li>
 </ul>
 
-<h2>
+<h2 align="center">
 "Great websites are not just built with code, but with creativity and user experience."
 </h2>
